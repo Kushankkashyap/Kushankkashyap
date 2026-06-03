@@ -74,6 +74,14 @@ Insurance business performance analysis and interactive reporting using Power BI
 * Product & SaaS Analytics
 * KPI & Performance Reporting
 
+
+
+## 📊 GitHub Stats
+
+![Kushank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushankkashyap&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushankkashyap&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
