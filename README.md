@@ -1,49 +1,85 @@
 # Hi, I'm Kushank 👋
 
-### Data Analyst | Business Analyst | BI & Reporting Analyst
+### 📊 Data Analyst | 📈 Business Analyst | 📉 BI & Reporting Analyst
 
-I am passionate about transforming raw data into actionable business insights through analytics, reporting, and business intelligence solutions.
+Transforming raw data into actionable business insights through analytics, reporting, and business intelligence solutions.
 
-## About Me
+---
 
-* B.Com Graduate
-* Experience in US Healthcare RCM
-* Background in Business Analysis and Operations
-* Strong interest in Data Analytics and Business Intelligence
-* Currently focused on Advanced SQL, Python, and Analytics Engineering concepts
+## 🚀 About Me
 
-## Skills & Tools
+* 🎓 B.Com Graduate
+* 🏥 Experience in US Healthcare RCM
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 💡 Interested in solving business problems using data-driven decision making
+* 📈 Focused on analytics, reporting, KPI tracking, and business performance analysis
 
-* SQL (MS SQL Server)
+---
+
+## 🛠️ Skills & Tools
+
+### Analytics & BI
+
 * Power BI
 * DAX
 * Power Query
 * Advanced Excel
+
+### Data
+
+* SQL (MS SQL Server)
 * Data Modeling
-* Business Analysis
 * KPI Reporting
+* Data Analysis
+
+### Business
+
+* Business Analysis
 * Requirement Gathering
-* Healthcare Analytics (US RCM)
+* Process Improvement
+* Stakeholder Communication
 
-## Featured Projects
+---
 
-* Healthcare RCM Analytics Dashboard
-* SaaS Revenue Analytics Project
-* Blinkit Sales Analytics Dashboard
-* HR Analytics Dashboard
-* Insurance Analytics Dashboard
+## 📂 Featured Projects
 
-## Currently Learning
+### 🏥 Healthcare RCM Analytics Dashboard
 
-* Advanced SQL
-* Python for Data Analysis
-* Generative AI
-* Data Analytics Case Studies
+Revenue cycle management analytics with KPI monitoring, operational reporting, and business insights.
 
-## Career Objective
+### 📈 SaaS Analytics Project
 
-To become a highly skilled Data Analyst / Business Analyst capable of solving complex business problems through data-driven decision making.
+End-to-end SaaS analytics covering revenue metrics, customer behavior analysis, churn indicators, and funnel performance.
 
-## Connect With Me
+### 👥 HR People Analytics Dashboard
 
-* LinkedIn: Add Your LinkedIn Profile URL
+Workforce analytics, employee insights, attrition trends, and HR reporting.
+
+### 🛒 Blinkit Sales Analytics
+
+Sales performance analysis, category insights, and business reporting using Excel.
+
+### 💰 Insurance Analytics Dashboard
+
+Insurance business performance analysis and interactive reporting using Power BI.
+
+---
+
+## 🎯 Areas of Interest
+
+* Business Intelligence
+* Data Analytics
+* Revenue Analytics
+* Healthcare Analytics
+* Product & SaaS Analytics
+* KPI & Performance Reporting
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/kushankkashyap/
+
+---
+
+### ⭐ Turning data into actionable business insights.
