@@ -69,7 +69,7 @@ Production-style SaaS analytics pipeline analyzing **MRR, ARR, ARPC, customer ch
 
 ---
 
-### 👥 HR People Analytics Dashboard
+### 👥 HR Workforce & People Analytics
 **MS SQL Server · Power BI · DAX**
 
 End-to-end workforce analytics built around **headcount, attrition, compensation, performance and employee engagement**.
@@ -84,8 +84,8 @@ End-to-end workforce analytics built around **headcount, attrition, compensation
 
 | Project | Focus | Stack |
 |---|---|---|
-| 💰 **[Prism Insurance Power BI Analysis](https://github.com/Kushankkashyap/Prism-Insurance-PowerBI-Analysis)** | Premium, claims & customer feedback | Power BI · DAX · Excel |
-| 🛒 **[Amazon Sales Power BI](https://github.com/Kushankkashyap/Amazon-sales-powerbi)** | Sales, profitability & regional performance | Power BI · DAX |
+| 🛡️ **[Insurance Claims & Policy Analytics](https://github.com/Kushankkashyap/Prism-Insurance-PowerBI-Analysis)** | Premium, claims, policy performance & customer feedback | Power BI · DAX · Excel |
+| 🛒 **[Amazon Sales Performance](https://github.com/Kushankkashyap/Amazon-sales-powerbi)** | Sales, profitability & regional performance | Power BI · DAX |
 | 📋 **[Blinkit Excel Analysis](https://github.com/Kushankkashyap/Blinkit-Excel-project-)** | Sales analysis & business insights | Excel |
 
 ---
