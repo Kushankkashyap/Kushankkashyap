@@ -8,8 +8,8 @@ Transforming raw data into actionable business insights through analytics, repor
 
 ## 🚀 About Me
 
-* 🎓 B.Com Graduate
-* 🏥 Experience in US Healthcare RCM
+* 🎓 B.Com (Finance) Graduate, University of Delhi
+* 🏥 4+ years of experience in US Healthcare RCM Analytics
 * 📊 Passionate about Data Analytics & Business Intelligence
 * 💡 Interested in solving business problems using data-driven decision making
 * 📈 Focused on analytics, reporting, KPI tracking, and business performance analysis
@@ -28,7 +28,7 @@ Transforming raw data into actionable business insights through analytics, repor
 ### Data
 
 * SQL (MS SQL Server)
-* Data Modeling
+* Data Modeling (Star Schema)
 * KPI Reporting
 * Data Analysis
 
@@ -43,25 +43,18 @@ Transforming raw data into actionable business insights through analytics, repor
 
 ## 📂 Featured Projects
 
-### 🏥 Healthcare RCM Analytics Dashboard
+### 🏥 [Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
+Revenue cycle management analytics with 20+ DAX measures — KPI monitoring across claims, denial rates, AR aging, and team performance.
 
-Revenue cycle management analytics with KPI monitoring, operational reporting, and business insights.
+### 👥 [HR People Analytics Dashboard](https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard)
+Workforce analytics on a 2,000+ employee dataset — 30+ DAX measures covering attrition, compensation, and engagement KPIs.
 
+<!-- Add live repo links here once published -->
 ### 📈 SaaS Analytics Project
-
 End-to-end SaaS analytics covering revenue metrics, customer behavior analysis, churn indicators, and funnel performance.
 
-### 👥 HR People Analytics Dashboard
-
-Workforce analytics, employee insights, attrition trends, and HR reporting.
-
-### 🛒 Blinkit Sales Analytics
-
-Sales performance analysis, category insights, and business reporting using Excel.
-
-### 💰 Insurance Analytics Dashboard
-
-Insurance business performance analysis and interactive reporting using Power BI.
+### 🛒 E-commerce Sales Analytics
+Sales performance analysis, category insights, and business reporting using Excel and SQL.
 
 ---
 
@@ -73,9 +66,6 @@ Insurance business performance analysis and interactive reporting using Power BI
 * Healthcare Analytics
 * Product & SaaS Analytics
 * KPI & Performance Reporting
-
-
-
 
 ---
 
