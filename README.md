@@ -102,18 +102,6 @@ End-to-end workforce analytics built around **headcount, attrition, compensation
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kushankkashyap&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kushank's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushankkashyap&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities where I can combine **analytics, business understanding and BI** to solve meaningful business problems.
@@ -122,7 +110,6 @@ I'm interested in opportunities where I can combine **analytics, business unders
 
 ### 📊 Analyze. Understand. Improve.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushankkashyap/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+**[Connect with me on LinkedIn →](https://www.linkedin.com/in/kushankkashyap/)**
 
 </div>
