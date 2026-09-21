@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kushank
 
-### 📊 Data Analyst&nbsp; • &nbsp;💼 Business Analyst&nbsp; • &nbsp;📈 BI & Reporting Analyst
+### 📊 Data Analyst • Business Analyst • BI Analyst
 
-**Turning business questions into clear, data-driven decisions.**
+**Turning business questions into clear, data-driven decisions through SQL, Power BI and business-focused analytics.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushankkashyap/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushankkashyap)
@@ -16,10 +16,10 @@
 ## 💼 Professional Snapshot
 
 - 🏥 **4+ years of experience in US Healthcare RCM Analytics**
-- 📊 Focused on **Data Analytics, Business Intelligence, KPI Reporting & Performance Analysis**
+- 📊 Focused on **Data Analytics, Business Intelligence, KPI Reporting and Performance Analysis**
+- 🧠 Strong at translating business requirements into **practical analytics and reporting solutions**
 - 🎓 **B.Com (Finance)** — University of Delhi
-- 🧠 Strong in translating business requirements into **actionable analytics and reporting solutions**
-- 📈 Portfolio projects across **Healthcare, SaaS, HR & Insurance analytics**
+- 🌐 Building portfolio projects across **E-Commerce, Healthcare, SaaS, HR and Insurance analytics**
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 🧠 Data & Modeling
 
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://img.shields.io/badge/DAX-5C2D91?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/></a>
+<a href="https://learn.microsoft.com/en-us/dax/"><img src="https://img.shields.io/badge/DAX-5C2D91?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/></a>
 <a href="https://learn.microsoft.com/en-us/power-query/"><img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query"/></a>
 <img src="https://img.shields.io/badge/Star%20Schema-Data%20Modeling-555555?style=for-the-badge" alt="Star Schema"/>
 <img src="https://img.shields.io/badge/SQL-Joins%20%7C%20CTEs%20%7C%20Window%20Functions-4479A1?style=for-the-badge" alt="SQL"/>
@@ -47,36 +47,43 @@
 
 ## 🚀 Featured Analytics Projects
 
-### 🏥 Healthcare RCM Analytics Dashboard
+### 💰 [ProfitTrace | E-Commerce Profitability & Returns Intelligence](https://github.com/Kushankkashyap/ProfitTrace)
+
+**SQL Server · Power BI · DAX · Excel**
+
+An end-to-end analytics solution built around one commercial question: **Revenue looks healthy, but where is profit actually leaking?**
+
+**Highlights:** SQL staging & validation · Data cleaning · Analytical views · Star schema · DAX-driven KPIs · Profitability analysis · Returns & operational leakage · Customer & commercial intelligence
+
+---
+
+### 🏥 [Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
+
 **Power BI · DAX · SQL**
 
 End-to-end revenue cycle analytics focused on **denials, AR aging, claims performance, payment turnaround and team KPIs**.
 
 **Highlights:** 20+ DAX measures · Executive KPI reporting · Denial analysis · AR aging · Claim pipeline · Team performance
 
-👉 **[View Project →](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)**
-
 ---
 
-### 📈 SaaS Revenue & Funnel Analytics
+### 📈 [SaaS Revenue & Funnel Analytics](https://github.com/Kushankkashyap/saas-analytics-project)
+
 **SQL · MySQL · Power BI · Python**
 
-Production-style SaaS analytics pipeline analyzing **MRR, ARR, ARPC, customer churn, revenue churn and signup-to-paid funnel performance**.
+Production-style SaaS analytics focused on **MRR, ARR, ARPC, customer churn, revenue churn and signup-to-paid funnel performance**.
 
-**Highlights:** Data cleaning · Core revenue metrics · Funnel analysis · Monthly performance tracking · Executive dashboard
-
-👉 **[View Project →](https://github.com/Kushankkashyap/saas-analytics-project)**
+**Highlights:** Data cleaning · Revenue metrics · Funnel analysis · Monthly performance tracking · Executive dashboard
 
 ---
 
-### 👥 HR Workforce & People Analytics
+### 👥 [HR Workforce & People Analytics](https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard)
+
 **MS SQL Server · Power BI · DAX**
 
-End-to-end workforce analytics built around **headcount, attrition, compensation, performance and employee engagement**.
+Workforce analytics covering **headcount, attrition, compensation, performance and employee engagement**.
 
-**Highlights:** 2,000+ employee dataset · 30+ DAX measures · SQL views · Workforce KPIs · Interactive Power BI reporting
-
-👉 **[View Project →](https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard)**
+**Highlights:** 2,000+ employee dataset · 30+ DAX measures · SQL views · Workforce KPIs · Interactive reporting
 
 ---
 
@@ -98,7 +105,15 @@ End-to-end workforce analytics built around **headcount, attrition, compensation
 | **BI** | Power BI · DAX · Data Modeling · Power Query |
 | **SQL** | Joins · CTEs · Window Functions · Views |
 | **Business** | Requirements Gathering · Process Improvement · Stakeholder Communication |
-| **Domains** | Healthcare RCM · SaaS · HR · Insurance |
+| **Domains** | Healthcare RCM · E-Commerce · SaaS · HR · Insurance |
+
+---
+
+## 🧭 How I Approach Analytics
+
+**Business Question → Data Validation → SQL Analysis → Data Modeling → Power BI → Insight → Action**
+
+I focus on building analytics that are **not just visually clean, but tied to a real business decision**.
 
 ---
 
