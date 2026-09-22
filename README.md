@@ -59,7 +59,7 @@ An end-to-end analytics solution built around one commercial question: **Revenue
 
 ### 🏥 [Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
 
-**Power BI · DAX · SQL**
+**Power BI · DAX**
 
 End-to-end revenue cycle analytics focused on **denials, AR aging, claims performance, payment turnaround and team KPIs**.
 
