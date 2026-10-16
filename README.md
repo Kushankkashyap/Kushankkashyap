@@ -48,7 +48,7 @@ An end-to-end portfolio case study exploring where revenue turns into profit—a
   <a href="https://github.com/Kushankkashyap/ProfitTrace"><img src="https://raw.githubusercontent.com/Kushankkashyap/ProfitTrace/main/screenshots/executive_profit_command_center.png" alt="ProfitTrace executive dashboard preview" width="48%"></a>
   <a href="https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/RCM-PowerBI-Dashboard/main/01_Executive_Overview.png" alt="Healthcare RCM executive dashboard preview" width="48%"></a>
 </p>
-<p align="center"><sub>Dashboard previews · Open each repository for the full case study and supporting files.</sub></p>
+<p align="center"><sub>ProfitTrace and Healthcare RCM dashboard previews · Open each repository for the full case study and supporting files.</sub></p>
 
 ### 2. [US Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
 
@@ -69,6 +69,12 @@ A subscription analytics case study covering MRR, ARR, ARPC, customer churn and 
 **SQL Server · Power BI · DAX**
 
 An HR analytics case study covering workforce composition, attrition, compensation, performance and engagement using a synthetic employee dataset.
+
+<p align="center">
+  <a href="https://github.com/Kushankkashyap/saas-analytics-project"><img src="https://raw.githubusercontent.com/Kushankkashyap/saas-analytics-project/main/dashboard/screenshots/dashboard_overview.png" alt="SaaS revenue and funnel dashboard preview" width="48%"></a>
+  <a href="https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/HR-People-Analytics-Dashboard/main/Screenshots/01_Workforce_Overview.png" alt="HR workforce overview dashboard preview" width="48%"></a>
+</p>
+<p align="center"><sub>SaaS and HR Analytics dashboard previews · Both images link directly to their project repositories.</sub></p>
 
 ## More Projects
 
