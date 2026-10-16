@@ -45,10 +45,9 @@ An end-to-end portfolio case study exploring where revenue turns into profit—a
 **Evidence in the repository:** synthetic source data, SQL scripts, metric definitions, dashboard screenshots and project documentation.
 
 <p align="center">
-  <a href="https://github.com/Kushankkashyap/ProfitTrace"><img src="https://raw.githubusercontent.com/Kushankkashyap/ProfitTrace/main/screenshots/executive_profit_command_center.png" alt="ProfitTrace executive dashboard preview" width="48%"></a>
-  <a href="https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/RCM-PowerBI-Dashboard/main/01_Executive_Overview.png" alt="Healthcare RCM executive dashboard preview" width="48%"></a>
+  <a href="https://github.com/Kushankkashyap/ProfitTrace"><img src="https://raw.githubusercontent.com/Kushankkashyap/ProfitTrace/main/screenshots/executive_profit_command_center.png" alt="ProfitTrace executive dashboard preview" width="88%"></a>
 </p>
-<p align="center"><sub>ProfitTrace and Healthcare RCM dashboard previews · Open each repository for the full case study and supporting files.</sub></p>
+<p align="center"><sub>ProfitTrace · Executive profitability dashboard · Click the image to open the project.</sub></p>
 
 ### 2. [US Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
 
@@ -58,11 +57,21 @@ A healthcare analytics case study covering claim status, denial patterns, AR agi
 
 **Business focus:** identify denial drivers, monitor aged receivables and prioritize operational follow-up.
 
+<p align="center">
+  <a href="https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/RCM-PowerBI-Dashboard/main/01_Executive_Overview.png" alt="US Healthcare RCM executive dashboard preview" width="88%"></a>
+</p>
+<p align="center"><sub>Healthcare RCM · Executive overview · Click the image to open the project.</sub></p>
+
 ### 3. [SaaS Revenue & Funnel Analytics](https://github.com/Kushankkashyap/saas-analytics-project)
 
 **SQL · MySQL · Power BI · Python**
 
 A subscription analytics case study covering MRR, ARR, ARPC, customer churn and signup-to-paid funnel performance, with documented assumptions and a reproducible SQL workflow.
+
+<p align="center">
+  <a href="https://github.com/Kushankkashyap/saas-analytics-project"><img src="https://raw.githubusercontent.com/Kushankkashyap/saas-analytics-project/main/dashboard/screenshots/dashboard_overview.png" alt="SaaS revenue and funnel dashboard preview" width="88%"></a>
+</p>
+<p align="center"><sub>SaaS Analytics · Revenue and funnel overview · Click the image to open the project.</sub></p>
 
 ### 4. [HR Workforce & People Analytics](https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard)
 
@@ -71,10 +80,9 @@ A subscription analytics case study covering MRR, ARR, ARPC, customer churn and 
 An HR analytics case study covering workforce composition, attrition, compensation, performance and engagement using a synthetic employee dataset.
 
 <p align="center">
-  <a href="https://github.com/Kushankkashyap/saas-analytics-project"><img src="https://raw.githubusercontent.com/Kushankkashyap/saas-analytics-project/main/dashboard/screenshots/dashboard_overview.png" alt="SaaS revenue and funnel dashboard preview" width="48%"></a>
-  <a href="https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/HR-People-Analytics-Dashboard/main/Screenshots/01_Workforce_Overview.png" alt="HR workforce overview dashboard preview" width="48%"></a>
+  <a href="https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/HR-People-Analytics-Dashboard/main/Screenshots/01_Workforce_Overview.png" alt="HR workforce overview dashboard preview" width="88%"></a>
 </p>
-<p align="center"><sub>SaaS and HR Analytics dashboard previews · Both images link directly to their project repositories.</sub></p>
+<p align="center"><sub>HR Analytics · Workforce overview · Click the image to open the project.</sub></p>
 
 ## More Projects
 
