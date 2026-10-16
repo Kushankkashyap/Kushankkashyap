@@ -1,125 +1,91 @@
+<!-- Profile README for https://github.com/Kushankkashyap -->
+
 <div align="center">
 
-# 👋 Hi, I'm Kushank
+# Hi, I'm Kushank Kashyap 👋
 
-### Data Analyst | Business Analyst | BI Analyst
+### Data Analyst · Business Analyst · BI Analyst
 
-I build practical analytics solutions that connect **business problems, data, and decisions** using SQL, Power BI, DAX and Excel.
+I turn business questions into clear, evidence-backed analysis using **SQL Server, Power BI, DAX and Excel**.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-132234?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kushankkashyap.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushankkashyap/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushankkashyap)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushankkashyap)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 3+ years of experience across **US Healthcare RCM, analytics, reporting and business analysis**
-- Strong focus on **SQL, Power BI, DAX, Excel and data modeling**
-- Experienced in turning business requirements into **KPIs, reports, dashboards and actionable analysis**
+- 3+ years of experience across **US Healthcare RCM, reporting, analytics and business analysis**
+- Focused on SQL-based analysis, data validation, KPI development and Power BI reporting
+- Experienced in translating business questions into measurable metrics and decision-support dashboards
 - B.Com (Finance), University of Delhi
-- Portfolio work across **Healthcare, E-Commerce, SaaS, HR and Insurance**
+- Portfolio case studies across healthcare, e-commerce, SaaS, HR and insurance
 
----
+## Core Toolkit
 
-## 🛠️ Tools & Skills
+| Area | Tools and techniques |
+|---|---|
+| Querying & analysis | SQL Server, T-SQL, joins, CTEs, window functions, aggregations |
+| Business intelligence | Power BI, DAX, Power Query, Excel |
+| Data preparation | Data cleaning, validation, reconciliation, analytical views |
+| Modeling & reporting | Star schema, KPI design, dashboard storytelling |
+| Business analysis | Requirements understanding, stakeholder communication, root-cause analysis |
 
-**Analytics & BI**  
-SQL Server | MySQL | Power BI | DAX | Excel | Power Query
+## Featured Projects
 
-**Data & Modeling**  
-Data Cleaning | Data Validation | Star Schema | KPI Development | Analytical SQL | Dashboard Design
+### 1. [ProfitTrace — E-Commerce Profitability & Returns Intelligence](https://github.com/Kushankkashyap/ProfitTrace)
 
-**SQL**  
-Joins | CTEs | Window Functions | Aggregations | Views | Data Quality Checks
+**SQL Server · Power BI · DAX · Data Quality**
 
-**Business Analysis**  
-Requirements Gathering | Business Questions | KPI Reporting | Root Cause Analysis | Stakeholder Communication
+An end-to-end portfolio case study exploring where revenue turns into profit—and where discounts, returns and operational issues can affect profitability. Includes a documented SQL workflow, data-quality checks, a star-schema model and a four-page Power BI dashboard.
 
----
+**Evidence in the repository:** synthetic source data, SQL scripts, metric definitions, dashboard screenshots and project documentation.
 
-## ⭐ Featured Projects
+### 2. [US Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
 
-### 💰 [ProfitTrace | E-Commerce Profitability & Returns Intelligence](https://github.com/Kushankkashyap/ProfitTrace)
+**Power BI · DAX · Healthcare Revenue Cycle Management**
 
-**SQL Server | Power BI | DAX | Excel**
+A healthcare analytics case study covering claim status, denial patterns, AR aging, payment turnaround and team-level reporting using a documented synthetic claims dataset.
 
-An end-to-end analytics project focused on a practical commercial question: **where is profit being lost even when revenue looks healthy?**
+**Business focus:** identify denial drivers, monitor aged receivables and prioritize operational follow-up.
 
-Built with SQL data validation and cleaning, analytical queries, dimensional modeling, DAX measures and a 4-page Power BI dashboard covering profitability, returns, operations and customer performance.
+### 3. [SaaS Revenue & Funnel Analytics](https://github.com/Kushankkashyap/saas-analytics-project)
 
-**What it demonstrates:** SQL Server | Data Quality | Star Schema | DAX | KPI Development | Profitability Analysis | Business Insights
+**SQL · MySQL · Power BI · Python**
 
----
+A subscription analytics case study covering MRR, ARR, ARPC, customer churn and signup-to-paid funnel performance, with documented assumptions and a reproducible SQL workflow.
 
-### 🏥 [Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
+### 4. [HR Workforce & People Analytics](https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard)
 
-**Power BI | DAX | SQL**
+**SQL Server · Power BI · DAX**
 
-A US Healthcare revenue cycle analytics dashboard covering **denials, AR aging, claims performance, payment turnaround and team KPIs**.
+An HR analytics case study covering workforce composition, attrition, compensation, performance and engagement using a synthetic employee dataset.
 
-**What it demonstrates:** Healthcare RCM | Executive Reporting | Denial Analysis | AR Aging | Claims Analytics | DAX
-
----
-
-### 📈 [SaaS Revenue & Funnel Analytics](https://github.com/Kushankkashyap/saas-analytics-project)
-
-**SQL | MySQL | Power BI | Python**
-
-SaaS analytics covering **MRR, ARR, ARPC, churn, revenue churn and signup-to-paid funnel performance**.
-
-**What it demonstrates:** Revenue Analytics | Customer Metrics | Funnel Analysis | Monthly Trends | Business KPI Reporting
-
----
-
-### 👥 [HR Workforce & People Analytics](https://github.com/Kushankkashyap/HR-People-Analytics-Dashboard)
-
-**SQL Server | Power BI | DAX**
-
-Workforce analytics covering **headcount, attrition, compensation, performance and employee engagement**.
-
-**What it demonstrates:** SQL Views | DAX Measures | Workforce KPIs | Interactive Reporting | HR Analytics
-
----
-
-## 📊 More Projects
+## More Projects
 
 | Project | Focus | Tools |
 |---|---|---|
-| 🛡️ [Insurance Claims & Policy Analytics](https://github.com/Kushankkashyap/Prism-Insurance-PowerBI-Analysis) | Premium, claims, policy performance and customer feedback | Power BI · DAX · Excel |
-| 🛒 [Amazon Sales Performance](https://github.com/Kushankkashyap/Amazon-sales-powerbi) | Sales, profitability and regional performance | Power BI · DAX |
-| 📋 [Blinkit Excel Analysis](https://github.com/Kushankkashyap/Blinkit-Excel-project-) | Sales analysis and business insights | Excel |
+| [Insurance Claims & Policy Analytics](https://github.com/Kushankkashyap/Prism-Insurance-PowerBI-Analysis) | Premium, coverage, claim status and customer feedback | Power BI · DAX · Excel |
+| [Amazon Sales Performance](https://github.com/Kushankkashyap/Amazon-sales-powerbi) | Sales trends, product mix and regional performance | Power BI · DAX |
+| [Blinkit Store Sales Analysis](https://github.com/Kushankkashyap/Blinkit-Excel-project-) | Retail sales patterns and outlet performance | Excel |
 
----
+## How I Approach an Analytics Problem
 
-## 💡 How I Approach an Analytics Problem
+**Business question → Understand the data → Validate and clean → Analyze with SQL → Define metrics → Model the data → Visualize in Power BI → Explain the business implication**
 
-**Business Question → Understand the Data → Validate & Clean → Analyze with SQL → Build the Model → Create KPIs → Visualize in Power BI → Communicate the Insight**
+I aim to make analysis traceable and useful: clear metric definitions, documented assumptions, reproducible steps and insights that can be checked against the underlying data.
 
-I try to keep analytics practical: the goal is not just to build a dashboard, but to make the numbers easier to understand and use in a business decision.
+## Let's Connect
 
----
-
-## 📌 What You'll Find in My Projects
-
-- Business-focused problem statements
-- SQL analysis and data validation
-- Power BI dashboards and KPI reporting
-- DAX measures and data modeling
-- Data quality checks and documented assumptions
-- Business insights backed by the underlying data
-
----
-
-## 🤝 Let's Connect
-
-I'm open to opportunities in **Data Analytics, Business Analysis and Business Intelligence**, especially where I can combine SQL, Power BI and business understanding to solve real problems.
+I'm interested in opportunities across **Data Analytics, Business Analysis and Business Intelligence**, especially roles that combine SQL, Power BI, operational understanding and stakeholder communication.
 
 <div align="center">
 
-### Build with data. Explain with clarity. Improve with insight.
+**Build with data. Explain with clarity. Improve with insight.**
 
-[Connect with me on LinkedIn →](https://www.linkedin.com/in/kushankkashyap/)
+[Portfolio website](https://kushankkashyap.github.io/) · [LinkedIn](https://www.linkedin.com/in/kushankkashyap/)
 
 </div>
