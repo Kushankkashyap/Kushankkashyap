@@ -44,6 +44,12 @@ An end-to-end portfolio case study exploring where revenue turns into profit—a
 
 **Evidence in the repository:** synthetic source data, SQL scripts, metric definitions, dashboard screenshots and project documentation.
 
+<p align="center">
+  <a href="https://github.com/Kushankkashyap/ProfitTrace"><img src="https://raw.githubusercontent.com/Kushankkashyap/ProfitTrace/main/screenshots/executive_profit_command_center.png" alt="ProfitTrace executive dashboard preview" width="48%"></a>
+  <a href="https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard"><img src="https://raw.githubusercontent.com/Kushankkashyap/RCM-PowerBI-Dashboard/main/01_Executive_Overview.png" alt="Healthcare RCM executive dashboard preview" width="48%"></a>
+</p>
+<p align="center"><sub>Dashboard previews · Open each repository for the full case study and supporting files.</sub></p>
+
 ### 2. [US Healthcare RCM Analytics Dashboard](https://github.com/Kushankkashyap/RCM-PowerBI-Dashboard)
 
 **Power BI · DAX · Healthcare Revenue Cycle Management**
