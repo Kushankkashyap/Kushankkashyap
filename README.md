@@ -6,7 +6,7 @@
 
 ### Data Analyst · Business Analyst · BI Analyst
 
-I turn business questions into clear, evidence-backed analysis using **SQL Server, Power BI, DAX and Excel**.
+I turn business questions into clear, evidence-backed analysis using **SQL Server, Power BI, DAX, Excel, Python and Pandas**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-132234?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kushankkashyap.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushankkashyap/)
@@ -21,6 +21,7 @@ I turn business questions into clear, evidence-backed analysis using **SQL Serve
 - 3+ years of experience across **US Healthcare RCM, reporting, analytics and business analysis**
 - Focused on SQL-based analysis, data validation, KPI development and Power BI reporting
 - Experienced in translating business questions into measurable metrics and decision-support dashboards
+- Building analytical skills with **Python, Pandas and NumPy**
 - B.Com (Finance), University of Delhi
 - Portfolio case studies across healthcare, e-commerce, SaaS, HR and insurance
 
@@ -28,6 +29,7 @@ I turn business questions into clear, evidence-backed analysis using **SQL Serve
 
 | Area | Tools and techniques |
 |---|---|
+| Programming & data analysis | Python, Pandas, NumPy |
 | Querying & analysis | SQL Server, T-SQL, joins, CTEs, window functions, aggregations |
 | Business intelligence | Power BI, DAX, Power Query, Excel |
 | Data preparation | Data cleaning, validation, reconciliation, analytical views |
@@ -100,7 +102,7 @@ I aim to make analysis traceable and useful: clear metric definitions, documente
 
 ## Let's Connect
 
-I'm interested in opportunities across **Data Analytics, Business Analysis and Business Intelligence**, especially roles that combine SQL, Power BI, operational understanding and stakeholder communication.
+I'm interested in opportunities across **Data Analytics, Business Analysis and Business Intelligence**, especially roles that combine SQL, Power BI, Python-based data analysis, operational understanding and stakeholder communication.
 
 <div align="center">
 
